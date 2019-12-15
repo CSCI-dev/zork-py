@@ -1,5 +1,12 @@
 # Zork.py
 
+#   Ethan Taylor
+#   ​CSCI 102 Section C
+#   Python Lab EC Code Enhancements
+
+1. I attempted Part A of the EC, and I successfully completed refactoring and increasing code readability and editability.
+2. I faced the challenge of not reading instructions well enough. as well as not knowing how to best print the correct intro message before that room's inputs. I settled on a dictionairy, with a key of the status and an output of the correct message to introduce the input. As well, I used a string instead of an int for the status to improve readability, though that did create some minor challenges.  
+
 Thank you for downloading a copy of Zork, The PY Edition!
 This Python Program is based loosely on the Storyline of Zork I, and is intended to run and function exactly like the original -
 the only difference being that this version is written with Python and can therefore be run and downloaded for free!
